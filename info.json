@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "85aecb5994ad48dd417caf8eb258a446a6b61b16",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-11-20 15:04:14",
+    "files": 1,
+    "merge": false,
+    "message": "Minor tweak for autobrew\n"
+  },
+  "repo": "https://github.com/ropensci/cld3",
+  "pkg": "cld3"
+}
