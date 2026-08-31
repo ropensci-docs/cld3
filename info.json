@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "58bec716899dc16a53323fce2d4f743a5a4e853b",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-07-26T22:32:39Z",
+    "files": 2,
+    "merge": false,
+    "message": "Fix build on Windows arm64\n"
+  },
+  "repo": "https://github.com/ropensci/cld3",
+  "pkg": "cld3",
+  "time": "2026-08-31T10:11:11Z"
+}
